@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 
-export default function Record() {
+export default function Book() {
   const [form, setForm] = useState({
     title: "",
     author: "",

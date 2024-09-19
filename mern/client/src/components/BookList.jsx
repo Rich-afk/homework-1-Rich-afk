@@ -35,7 +35,7 @@ const Record = (props) => (
   </tr>
 );
 
-export default function RecordList() {
+export default function BookList() {
   const [records, setRecords] = useState([]);
   const [sortConfig, setSortConfig] = useState({ key: 'title', direction: 'ascending' });
 
