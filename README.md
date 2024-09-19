@@ -2,7 +2,7 @@
 
 ## Description
 
-MyBooksApp allows for user to upload books to a webpage with the title, author, and ISBN number. Users may also choose to sort by any of these categories by clicking on each respective category. One click will sort in ascending order, another in descending order.
+MyBooksApp allows for user to upload books to a webpage with the title, author, and ISBN number. Users may also choose to sort by any of these categories by clicking on each respective category. One click will sort in ascending order, another in descending order. Users can also choose to edit and delete each book.
 
 ## Resources Used
 
