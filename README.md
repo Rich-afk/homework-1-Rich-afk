@@ -10,4 +10,4 @@ Boiler plate code for this app can be found on the [MongoDB website](https://www
 
 ## Link
 
-This app is deployed on 
+The deploy link is currently non-functional.
